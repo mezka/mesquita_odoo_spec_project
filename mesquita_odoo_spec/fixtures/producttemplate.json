@@ -1,0 +1,30 @@
+[
+    {
+      "model": "mesquita_odoo_spec.producttemplate",
+      "pk": 1,
+      "fields": {
+        "name": "PUERTA RF30"
+      }
+    },
+    {
+        "model": "mesquita_odoo_spec.producttemplate",
+        "pk": 2,
+        "fields": {
+          "name": "PUERTA RF60"
+        }
+    },
+    {
+        "model": "mesquita_odoo_spec.producttemplate",
+        "pk": 3,
+        "fields": {
+          "name": "PUERTA RF90"
+        }
+    },
+    {
+        "model": "mesquita_odoo_spec.producttemplate",
+        "pk": 4,
+        "fields": {
+          "name": "PUERTA RF120"
+        }
+    }
+]

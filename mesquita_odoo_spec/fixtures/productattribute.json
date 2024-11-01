@@ -1,0 +1,9 @@
+[
+    {
+      "model": "mesquita_odoo_spec.productattribute",
+      "pk": 1,
+      "fields": {
+        "name": "PUERTAS"
+      }
+    }
+]
